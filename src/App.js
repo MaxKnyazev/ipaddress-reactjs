@@ -22,8 +22,6 @@ class App extends Component {
     let result = await fetch('https://ipinfo.io/json?token=6c6f02ef23ccab');
     result = await result.json();
 
-    console.log(result);
-
     let {ip, city, country, loc, org, postal, timezone} = result;
 
     this.setState({
