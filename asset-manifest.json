@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ipaddress-reactjs/static/css/main.dafc18db.chunk.css",
-    "main.js": "/ipaddress-reactjs/static/js/main.54f62b93.chunk.js",
-    "main.js.map": "/ipaddress-reactjs/static/js/main.54f62b93.chunk.js.map",
+    "main.css": "/ipaddress-reactjs/static/css/main.efd72e8d.chunk.css",
+    "main.js": "/ipaddress-reactjs/static/js/main.7dd6914a.chunk.js",
+    "main.js.map": "/ipaddress-reactjs/static/js/main.7dd6914a.chunk.js.map",
     "runtime-main.js": "/ipaddress-reactjs/static/js/runtime-main.14d8a88d.js",
     "runtime-main.js.map": "/ipaddress-reactjs/static/js/runtime-main.14d8a88d.js.map",
     "static/js/2.0f1584b1.chunk.js": "/ipaddress-reactjs/static/js/2.0f1584b1.chunk.js",
     "static/js/2.0f1584b1.chunk.js.map": "/ipaddress-reactjs/static/js/2.0f1584b1.chunk.js.map",
     "index.html": "/ipaddress-reactjs/index.html",
-    "precache-manifest.a15d0a780c4c6620b5e9c7100b4e725c.js": "/ipaddress-reactjs/precache-manifest.a15d0a780c4c6620b5e9c7100b4e725c.js",
+    "precache-manifest.7741fd354aefcfe09a50d6a93d71f16e.js": "/ipaddress-reactjs/precache-manifest.7741fd354aefcfe09a50d6a93d71f16e.js",
     "service-worker.js": "/ipaddress-reactjs/service-worker.js",
-    "static/css/main.dafc18db.chunk.css.map": "/ipaddress-reactjs/static/css/main.dafc18db.chunk.css.map",
+    "static/css/main.efd72e8d.chunk.css.map": "/ipaddress-reactjs/static/css/main.efd72e8d.chunk.css.map",
     "static/js/2.0f1584b1.chunk.js.LICENSE.txt": "/ipaddress-reactjs/static/js/2.0f1584b1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.14d8a88d.js",
     "static/js/2.0f1584b1.chunk.js",
-    "static/css/main.dafc18db.chunk.css",
-    "static/js/main.54f62b93.chunk.js"
+    "static/css/main.efd72e8d.chunk.css",
+    "static/js/main.7dd6914a.chunk.js"
   ]
 }
