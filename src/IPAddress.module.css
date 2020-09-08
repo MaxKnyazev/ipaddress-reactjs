@@ -1,9 +1,7 @@
-div {
-  font-family: sans-serif;
+.title {
   text-align: center;
-  font-size: 5vh;
 }
   
-.colorInfo {
+.info {
   color : rgb(146, 0, 108);;
 }

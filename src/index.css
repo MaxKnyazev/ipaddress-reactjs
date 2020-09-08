@@ -6,12 +6,16 @@
 
 body {
   background-color: #fac903b8;
+  font-family: sans-serif;
   font-weight: bold;
+  font-size: calc(32px + 16 * ((100vw - 320px) / (1280 - 320)));
 }
 
 #root {
   display: flex;
   flex-direction: column;
-  justify-content: center;
+  justify-content: space-around;
   align-items: center;
+  width: 100vw;
+  height: 100vh;
 }
