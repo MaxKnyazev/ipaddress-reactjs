@@ -3,8 +3,8 @@ import IPAddress from './IPAddress.js';
 import Spinner from './Spinner';
 
 class App extends Component {
-  constructor() {
-    super();
+  constructor(props) {
+    super(props);
 
     this.state = {
       ip: '',
